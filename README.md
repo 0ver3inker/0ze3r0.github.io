@@ -5,15 +5,6 @@
 
 
 
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
-
 ## Basic Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
