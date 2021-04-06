@@ -1,3 +1,3 @@
-# Particle Jekyll Theme
+# Portfolio
 
 ![](./particle.jpg)
